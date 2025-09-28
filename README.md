@@ -11,17 +11,14 @@ Page1 : Print Performance and Circulation.
 
 <img width="1440" height="817" alt="image" src="https://github.com/user-attachments/assets/b0054104-2af2-4529-bbaf-5d8dcae6f2bb" />
 
-Print Performance & Circulation Dashboard Overview
-- Purpose: This dashboard tracks year-over-year trends in print operations across key cities, helping Bharat Herald optimize circulation, reduce waste, and improve distribution efficiency.
-- Key Metrics:
-- Copies Printed, Sold, and Net Circulated from 2019 to 2024
-- Print Waste Analysis by city
-- Print Efficiency comparison across cities (e.g., Jaipur, Mumbai, Delhi)
-- Insights Delivered:
-- Identifies high-efficiency cities for strategic scaling
-- Highlights areas with excessive print waste for cost-saving interventions
-- Supports data-driven decisions on print volume and regional targeting
-- Use Case: Ideal for editorial teams, distribution managers, and strategic planners seeking to align print performance with audience demand and operational goals.
 
+- Page2 :Ad Revenue Performance and ROI.
+
+- <img width="1496" height="838" alt="image" src="https://github.com/user-attachments/assets/64e2c239-eb7f-4284-b859-961d3833b9a8" />
+
+
+Page3: Digital Readiness Performance.
+
+<img width="1490" height="835" alt="image" src="https://github.com/user-attachments/assets/cd48990f-364d-4bc1-bfa3-48c86e8422b6" />
 
 
